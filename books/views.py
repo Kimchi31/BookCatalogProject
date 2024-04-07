@@ -1,5 +1,5 @@
 from django.shortcuts import render
-#контроллеры
+
 
 from .serializers import *
 from .models import *
